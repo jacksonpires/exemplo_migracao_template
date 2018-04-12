@@ -1,1 +1,1 @@
-# Confira o post clicando [http://bit.ly/template-html-rails](aqui)
+# Confira o post clicando [aqui](http://bit.ly/template-html-rails)
